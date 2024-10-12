@@ -1,8 +1,10 @@
 # Literally Just Survival
 
-## ⚠️ DEPRECATED ⚠️  
+### ⚠️ DEPRECATED ⚠️  
 This project is very old and never got much testing.  
 Do not rely on it working perfectly.  
+
+## Description
   
 LJS is a simple plugin for Minecraft Spigot servers  
 designed to allow your players to to teleport back  
